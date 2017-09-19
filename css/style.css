@@ -1,0 +1,152 @@
+body {
+	background: url(https://static.pexels.com/photos/3681/food-lunch-meal-pasta.jpg) no-repeat fixed;
+	background-size: 100%;
+}
+
+main {
+	width: 70%;
+	margin: 0 auto;
+
+	/*background-color: #F9BE02;*/
+	color: #F4F4F4
+}
+
+main .box {
+	float:left;
+	padding-top: 20px;
+	padding-bottom: 20px;
+
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+	width: 50%;
+
+	border: #35424a 1px solid;
+	border-bottom: #e8491d 0.5px solid;
+
+	background-color: rgba(244, 244, 244, 0.80);
+}
+
+main h1 {
+
+	text-align: center;
+
+	font-family: Tahoma;
+	color: #35424a;
+	font-size: 20px;
+	border: #35424a 1px solid;
+	border-bottom: #e8491d 0.5px solid;
+
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+}
+
+main .other {
+
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+
+	border: #35424a 1px solid;
+	border-bottom: #e8491d 0.5px solid;
+	min-height: 200px;
+	color: #e8491d;
+	display: inline-block;
+
+}
+
+main p {
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
+	border: #35424a 1px solid;
+	border-bottom: #e8491d 0.5px solid;
+	color: #e8491d;
+	display: inline-block;
+}
+
+main li {
+	padding: 10px;
+	margin: 10px 50px 10px 50px;
+	color: #e8491d;
+	list-style-type: upper-roman;
+}
+
+main a {
+
+	color: #35424a;
+
+	text-align: center;
+	text-decoration: none;
+
+	padding: 10px;
+
+	border: #35424a 1px solid;
+	border-bottom: #e8491d 0.5px solid;
+
+	margin-left: 43%;
+
+}
+
+main img {
+
+	
+	position: relative;
+	width: 68%;
+	margin: 5% 15% 5% 15%;
+
+	border: #35424a 2px solid;
+	border-bottom: #e8491d 2px solid;
+
+}
+
+.design {
+	width: 70%;
+	clear: both;
+
+	padding-bottom: 10px;
+	border-bottom: black 1px solid;
+
+	border: #35424a 1px solid;
+	border-bottom: #e8491d 0.5px solid;
+
+	margin: auto;
+
+	text-align: center;
+	font-family: Tahoma;
+
+	background-color: rgba(244, 244, 244, 0.80);
+	color: #35424a;
+}
+
+#backtotop {
+	margin: 0;
+	padding: 0;
+	height: 0.000000000000001px;
+	opacity: 0;
+}
+
+#top_left p {
+	padding-bottom: 20.4px;
+}
+
+#top_right p {
+	padding-top: 20px;
+}
+
+#top_right {
+    width: calc(50% - 2px);
+	float:right;
+}
+
+#bottom {
+	width: 100%;
+}
+#top_left {
+	float:left;
+	width: calc(50% - 2px);
+}
+
+
