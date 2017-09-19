@@ -57,7 +57,7 @@ main .other {
 
 }
 
-main p {
+main .bereidingstip {
 	padding: 10px;
 	margin-left: 50px;
 	margin-right: 50px;
@@ -65,6 +65,13 @@ main p {
 	border-bottom: #e8491d 0.5px solid;
 	color: #e8491d;
 	display: inline-block;
+}
+
+main .bereidingstijd {
+	color: #e8491d;
+	padding: 10px;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 
 main li {
